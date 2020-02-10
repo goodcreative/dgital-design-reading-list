@@ -20,6 +20,13 @@
       "description": "Overview of the documentation used to support the GOV.UK Design System.",
       "date": "05/11/2018",
       "tags":["design systems","documentation"]
+    },
+    {
+      "title":"A comprehensive guide to design systems",
+      "linkURL":"https://www.invisionapp.com/inside-design/guide-to-design-systems/",
+      "description": "Introduction to the general concepts and processes involved in creating Design Systems. Also has a good list of links for futher reading.",
+      "date": "24/06/2019",
+      "tags":["design systems","concepts"]
     }
   ]
 }
