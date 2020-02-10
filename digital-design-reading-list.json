@@ -4,18 +4,21 @@
       "title":"The Language of Modular Design",
       "linkURL":"https://alistapart.com/article/language-of-modular-design/",
       "description": "",
+      "date": "11/08/2015",
       "tags":["design systems"]
     },
     {
       "title":"Atomic Design",
       "linkURL":"http://atomicdesign.bradfrost.com/",
       "description": "Chapter 1 is a particularly good intro to a systems-based design approach.",
+      "date":"01/01/2016",
       "tags":["design systems"]
     },
     {
       "title":"How we document components and patterns in the GOV.UK Design System",
       "linkURL":"https://designnotes.blog.gov.uk/2018/11/05/how-we-document-components-and-patterns-in-the-gov-uk-design-system/",
       "description": "Overview of the documentation used to support the GOV.UK Design System.",
+      "date": "05/11/2018",
       "tags":["design systems","documentation"]
     }
   ]
