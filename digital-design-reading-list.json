@@ -30,7 +30,15 @@
       "description": "Introduction to the general concepts and processes involved in creating Design Systems. Also has a good list of links for futher reading.",
       "date": "24/06/2019",
       "type": "article",
-      "tags":["design systems","concepts"]
+      "tags":["design systems","process"]
+    },
+    {
+      "title":"Building Flexible Design Systems - The Design & Content Conference",
+      "linkURL":"https://vimeo.com/228908312",
+      "description": "Yesenia Perez-Cruz presents a case study of how Vox used a design system across their brands that helped to maintain, rather than stifle, creativity.",
+      "date": "08/10/2017",
+      "type": "video",
+      "tags":["design systems","creativity","process"]
     }
   ]
 }
