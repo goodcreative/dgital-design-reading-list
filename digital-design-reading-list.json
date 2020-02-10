@@ -5,6 +5,7 @@
       "linkURL":"https://alistapart.com/article/language-of-modular-design/",
       "description": "",
       "date": "11/08/2015",
+      "type": "article",
       "tags":["design systems"]
     },
     {
@@ -12,6 +13,7 @@
       "linkURL":"http://atomicdesign.bradfrost.com/",
       "description": "Chapter 1 is a particularly good intro to a systems-based design approach.",
       "date":"01/01/2016",
+      "type": "book",
       "tags":["design systems"]
     },
     {
@@ -19,6 +21,7 @@
       "linkURL":"https://designnotes.blog.gov.uk/2018/11/05/how-we-document-components-and-patterns-in-the-gov-uk-design-system/",
       "description": "Overview of the documentation used to support the GOV.UK Design System.",
       "date": "05/11/2018",
+      "type": "article",
       "tags":["design systems","documentation"]
     },
     {
@@ -26,6 +29,7 @@
       "linkURL":"https://www.invisionapp.com/inside-design/guide-to-design-systems/",
       "description": "Introduction to the general concepts and processes involved in creating Design Systems. Also has a good list of links for futher reading.",
       "date": "24/06/2019",
+      "type": "article",
       "tags":["design systems","concepts"]
     }
   ]

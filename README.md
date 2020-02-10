@@ -9,6 +9,7 @@ JSON file of useful articles
   "linkURL":"LINK HERE",
   "description": "DESCRIPTION HERE",
   "date": "DD/MM/YYYY",
+  "type": "TYPE HERE",
   "tags":["TAG HERE"]
 }
 ```
