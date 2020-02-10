@@ -1,2 +1,2 @@
-# dgital-design-reading-list
+# digital-design-reading-list
 JSON file of useful articles
