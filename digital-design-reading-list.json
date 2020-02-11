@@ -1,20 +1,52 @@
 {
   "articles": [
     {
+      "title":"Accessibility drives aesthetics",
+      "linkURL":"https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa",
+      "description":"A good demolition of the position that to be create an accessible UI, you have to sacrifice aesthetics. In fact, designing for accessibility often makes things more aesthetically successful.",
+      "date": "25/11/2019",
+      "type": "article",
+      "tags":["accessibility","aesthetics"]
+    },
+    {
+      "title":"The Myths of Color Contrast Accessibility",
+      "linkURL":"https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/",
+      "description":"Some killer, real-world advice about colour accessibility.",
+      "date": "16/10/2019",
+      "type": "article",
+      "tags":["colour","accessibility"]
+    },
+    {
+      "title":"And You Thought Buttons Were Easy?",
+      "linkURL":"https://medium.com/eightshapes-llc/and-you-thought-buttons-were-easy-26eb5b5c1871",
+      "description": "A slightly hyperbolic example of how much duplicate design work can cost. It does give a good illustration of how complex digital design can get, though.",
+      "date": "26/07/2017",
+      "type": "article",
+      "tags":["design systems","process"]
+    },
+    {
+      "title":"InVision Design Maturity Report",
+      "linkURL":"https://www.invisionapp.com/design-better/design-maturity-model/",
+      "description": "InVision's look at the state of the (tech) design industry. The model of design maturity treats design systems as table stakes.",
+      "date": "01/10/2019",
+      "type": "article",
+      "tags":["design industry","surveys"]
+    },
+    {
       "title":"The Language of Modular Design",
       "linkURL":"https://alistapart.com/article/language-of-modular-design/",
-      "description": "",
+      "description": "An introduction to designing using modular components to create more complex layouts",
       "date": "11/08/2015",
       "type": "article",
-      "tags":["design systems"]
+      "tags":["design systems","modular design"]
     },
     {
       "title":"Atomic Design",
       "linkURL":"http://atomicdesign.bradfrost.com/",
-      "description": "Chapter 1 is a particularly good intro to a systems-based design approach.",
+      "description": "The already classic book by Brad Frost. Chapter 1 is a particularly good intro to a systems-based design approach.",
       "date":"01/01/2016",
       "type": "book",
-      "tags":["design systems"]
+      "tags":["design systems","atomic design"]
     },
     {
       "title":"How we document components and patterns in the GOV.UK Design System",
