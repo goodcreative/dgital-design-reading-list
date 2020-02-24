@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title":"What is a mental model and how does it relate to user experience?",
+      "linkURL":"https://uxdesign.cc/what-is-a-mental-model-and-how-does-it-relate-to-user-experience-eabf2b5278a2",
+      "description":"When it comes to UX design, understanding users’ mental models helps you make better design decisions in order to produce intuitive and engaging experiences for them.",
+      "date": "20/02/2020",
+      "type": "article",
+      "tags":["design theory"]
+    },
+    
+    {
       "title":"How design systems use Storybook",
       "linkURL":"https://medium.com/storybookjs/how-design-systems-use-storybook-2ed735ad07a9",
       "description":"A roundup of the best Storybook techniques from leading design systems",
