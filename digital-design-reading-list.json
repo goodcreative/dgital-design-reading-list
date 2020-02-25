@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title":"More Inclusive Design Systems Lead to Better Experiences",
+      "linkURL":"https://xd.adobe.com/ideas/principles/design-systems/more-inclusive-design-systems-lead-to-better-experiences/",
+      "description":"Design systems that establish an inclusive experience and contain patterns that are accessible keep bad practices from propagating across the organization’s digital experiences.",
+      "date": "06/12/2019",
+      "type": "article",
+      "tags":["design systems","accessibility"]
+    },
+    
+    {
       "title":"What is a mental model and how does it relate to user experience?",
       "linkURL":"https://uxdesign.cc/what-is-a-mental-model-and-how-does-it-relate-to-user-experience-eabf2b5278a2",
       "description":"When it comes to UX design, understanding users’ mental models helps you make better design decisions in order to produce intuitive and engaging experiences for them.",
