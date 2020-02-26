@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title":"The Web's Grain",
+      "linkURL":"https://frankchimero.com/writing/the-webs-grain/",
+      "description":"A classic talk/article from Frank Chimero exploring the unique characteristics of the Web as a material to design with.",
+      "date": "12/12/2015",
+      "type": "article",
+      "tags":["design theory"]
+    },
+  
+    {
       "title":"More Inclusive Design Systems Lead to Better Experiences",
       "linkURL":"https://xd.adobe.com/ideas/principles/design-systems/more-inclusive-design-systems-lead-to-better-experiences/",
       "description":"Design systems that establish an inclusive experience and contain patterns that are accessible keep bad practices from propagating across the organization’s digital experiences.",
@@ -8,7 +17,7 @@
       "type": "article",
       "tags":["design systems","accessibility"]
     },
-    
+  
     {
       "title":"What is a mental model and how does it relate to user experience?",
       "linkURL":"https://uxdesign.cc/what-is-a-mental-model-and-how-does-it-relate-to-user-experience-eabf2b5278a2",
