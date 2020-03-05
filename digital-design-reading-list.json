@@ -46,10 +46,10 @@
     {
       "title":"Accessibility drives aesthetics",
       "linkURL":"https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa",
-      "description":"A good demolition of the position that to be create an accessible UI, you have to sacrifice aesthetics. In fact, designing for accessibility often makes things more aesthetically successful.",
+      "description":"A good demolition of the position that to create an accessible UI, you have to sacrifice aesthetics. In fact, designing for accessibility often makes things more aesthetically successful.",
       "date": "25/11/2019",
       "type": "article",
-      "tags":["accessibility","aesthetics"]
+      "tags":["accessibility"]
     },
     {
       "title":"The Myths of Color Contrast Accessibility",
@@ -57,7 +57,7 @@
       "description":"Some killer, real-world advice about colour accessibility.",
       "date": "16/10/2019",
       "type": "article",
-      "tags":["colour","accessibility"]
+      "tags":["accessibility"]
     },
     {
       "title":"And You Thought Buttons Were Easy?",
@@ -73,7 +73,7 @@
       "description": "InVision's look at the state of the (tech) design industry. The model of design maturity treats design systems as table stakes.",
       "date": "01/10/2019",
       "type": "article",
-      "tags":["design industry","surveys"]
+      "tags":["design industry"]
     },
     {
       "title":"The Language of Modular Design",
@@ -81,7 +81,7 @@
       "description": "An introduction to designing using modular components to create more complex layouts",
       "date": "11/08/2015",
       "type": "article",
-      "tags":["design systems","modular design"]
+      "tags":["modular design"]
     },
     {
       "title":"Atomic Design",
