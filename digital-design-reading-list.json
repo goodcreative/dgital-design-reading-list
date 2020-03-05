@@ -89,7 +89,7 @@
       "description": "The already classic book by Brad Frost. Chapter 1 is a particularly good intro to a systems-based design approach.",
       "date":"01/01/2016",
       "type": "book",
-      "tags":["design systems","atomic design"]
+      "tags":["modular design"]
     },
     {
       "title":"How we document components and patterns in the GOV.UK Design System",
