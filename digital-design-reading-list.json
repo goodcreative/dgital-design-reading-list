@@ -1,119 +1,125 @@
-{
-  "articles": [
-    {
-      "title":"Carbon Design System",
-      "linkURL":"https://www.carbondesignsystem.com/",
-      "description":"IBM's Carbon design system. Extremely comprehensive, with guidelines supporting multiple technical implementations. A design system operating at a massive scale.",
-      "date": "01/03/2020",
-      "type": "book",
-      "tags":["design systems"]
-    },
-    {
-      "title":"The Web's Grain",
-      "linkURL":"https://frankchimero.com/writing/the-webs-grain/",
-      "description":"A classic talk/article from Frank Chimero exploring the unique characteristics of the Web as a material to design with.",
-      "date": "12/12/2015",
-      "type": "article",
-      "tags":["design theory"]
-    },
+[
+  {
+    "title":"Design Systems Handbook",
+    "linkURL":"https://www.designbetter.co/design-systems-handbook",
+    "description":"This book guides readers through best practices around planning, designing, building, and implementing a design system, with insights and first-hand experiences from experts who have gone through the journey.",
+    "date": "28/11/2017",
+    "type": "book",
+    "tags":["design systems"]
+  },
+  {
+    "title":"Carbon Design System",
+    "linkURL":"https://www.carbondesignsystem.com/",
+    "description":"IBM's Carbon design system. Extremely comprehensive, with guidelines supporting multiple technical implementations. A design system operating at a massive scale.",
+    "date": "01/03/2020",
+    "type": "book",
+    "tags":["design systems"]
+  },
+  {
+    "title":"The Web's Grain",
+    "linkURL":"https://frankchimero.com/writing/the-webs-grain/",
+    "description":"A classic talk/article from Frank Chimero exploring the unique characteristics of the Web as a material to design with.",
+    "date": "12/12/2015",
+    "type": "article",
+    "tags":["design theory"]
+  },
+
+  {
+    "title":"More Inclusive Design Systems Lead to Better Experiences",
+    "linkURL":"https://xd.adobe.com/ideas/principles/design-systems/more-inclusive-design-systems-lead-to-better-experiences/",
+    "description":"Design systems that establish an inclusive experience and contain patterns that are accessible keep bad practices from propagating across the organization’s digital experiences.",
+    "date": "06/12/2019",
+    "type": "article",
+    "tags":["design systems","accessibility"]
+  },
+
+  {
+    "title":"What is a mental model and how does it relate to user experience?",
+    "linkURL":"https://uxdesign.cc/what-is-a-mental-model-and-how-does-it-relate-to-user-experience-eabf2b5278a2",
+    "description":"When it comes to UX design, understanding users’ mental models helps you make better design decisions in order to produce intuitive and engaging experiences for them.",
+    "date": "20/02/2020",
+    "type": "article",
+    "tags":["design theory"]
+  },
   
-    {
-      "title":"More Inclusive Design Systems Lead to Better Experiences",
-      "linkURL":"https://xd.adobe.com/ideas/principles/design-systems/more-inclusive-design-systems-lead-to-better-experiences/",
-      "description":"Design systems that establish an inclusive experience and contain patterns that are accessible keep bad practices from propagating across the organization’s digital experiences.",
-      "date": "06/12/2019",
-      "type": "article",
-      "tags":["design systems","accessibility"]
-    },
-  
-    {
-      "title":"What is a mental model and how does it relate to user experience?",
-      "linkURL":"https://uxdesign.cc/what-is-a-mental-model-and-how-does-it-relate-to-user-experience-eabf2b5278a2",
-      "description":"When it comes to UX design, understanding users’ mental models helps you make better design decisions in order to produce intuitive and engaging experiences for them.",
-      "date": "20/02/2020",
-      "type": "article",
-      "tags":["design theory"]
-    },
-    
-    {
-      "title":"How design systems use Storybook",
-      "linkURL":"https://medium.com/storybookjs/how-design-systems-use-storybook-2ed735ad07a9",
-      "description":"A roundup of the best Storybook techniques from leading design systems",
-      "date": "11/02/2020",
-      "type": "article",
-      "tags":["design systems","tools"]
-    },
-    {
-      "title":"Accessibility drives aesthetics",
-      "linkURL":"https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa",
-      "description":"A good demolition of the position that to create an accessible UI, you have to sacrifice aesthetics. In fact, designing for accessibility often makes things more aesthetically successful.",
-      "date": "25/11/2019",
-      "type": "article",
-      "tags":["accessibility"]
-    },
-    {
-      "title":"The Myths of Color Contrast Accessibility",
-      "linkURL":"https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/",
-      "description":"Some killer, real-world advice about colour accessibility.",
-      "date": "16/10/2019",
-      "type": "article",
-      "tags":["accessibility"]
-    },
-    {
-      "title":"And You Thought Buttons Were Easy?",
-      "linkURL":"https://medium.com/eightshapes-llc/and-you-thought-buttons-were-easy-26eb5b5c1871",
-      "description": "A slightly hyperbolic example of how much duplicate design work can cost. It does give a good illustration of how complex digital design can get, though.",
-      "date": "26/07/2017",
-      "type": "article",
-      "tags":["design systems","process"]
-    },
-    {
-      "title":"InVision Design Maturity Report",
-      "linkURL":"https://www.invisionapp.com/design-better/design-maturity-model/",
-      "description": "InVision's look at the state of the (tech) design industry. The model of design maturity treats design systems as table stakes.",
-      "date": "01/10/2019",
-      "type": "article",
-      "tags":["design industry"]
-    },
-    {
-      "title":"The Language of Modular Design",
-      "linkURL":"https://alistapart.com/article/language-of-modular-design/",
-      "description": "An introduction to designing using modular components to create more complex layouts",
-      "date": "11/08/2015",
-      "type": "article",
-      "tags":["modular design"]
-    },
-    {
-      "title":"Atomic Design",
-      "linkURL":"http://atomicdesign.bradfrost.com/",
-      "description": "The already classic book by Brad Frost. Chapter 1 is a particularly good intro to a systems-based design approach.",
-      "date":"01/01/2016",
-      "type": "book",
-      "tags":["modular design"]
-    },
-    {
-      "title":"How we document components and patterns in the GOV.UK Design System",
-      "linkURL":"https://designnotes.blog.gov.uk/2018/11/05/how-we-document-components-and-patterns-in-the-gov-uk-design-system/",
-      "description": "Overview of the documentation used to support the GOV.UK Design System.",
-      "date": "05/11/2018",
-      "type": "article",
-      "tags":["design systems","documentation"]
-    },
-    {
-      "title":"A comprehensive guide to design systems",
-      "linkURL":"https://www.invisionapp.com/inside-design/guide-to-design-systems/",
-      "description": "Introduction to the general concepts and processes involved in creating Design Systems. Also has a good list of links for futher reading.",
-      "date": "24/06/2019",
-      "type": "article",
-      "tags":["design systems","process"]
-    },
-    {
-      "title":"Building Flexible Design Systems - The Design & Content Conference",
-      "linkURL":"https://vimeo.com/228908312",
-      "description": "Yesenia Perez-Cruz presents a case study of how Vox used a design system across their brands that helped to maintain, rather than stifle, creativity.",
-      "date": "08/10/2017",
-      "type": "video",
-      "tags":["design systems","creativity","process"]
-    }
-  ]
-}
+  {
+    "title":"How design systems use Storybook",
+    "linkURL":"https://medium.com/storybookjs/how-design-systems-use-storybook-2ed735ad07a9",
+    "description":"A roundup of the best Storybook techniques from leading design systems",
+    "date": "11/02/2020",
+    "type": "article",
+    "tags":["design systems","tools"]
+  },
+  {
+    "title":"Accessibility drives aesthetics",
+    "linkURL":"https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa",
+    "description":"A good demolition of the position that to create an accessible UI, you have to sacrifice aesthetics. In fact, designing for accessibility often makes things more aesthetically successful.",
+    "date": "25/11/2019",
+    "type": "article",
+    "tags":["accessibility"]
+  },
+  {
+    "title":"The Myths of Color Contrast Accessibility",
+    "linkURL":"https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/",
+    "description":"Some killer, real-world advice about colour accessibility.",
+    "date": "16/10/2019",
+    "type": "article",
+    "tags":["accessibility"]
+  },
+  {
+    "title":"And You Thought Buttons Were Easy?",
+    "linkURL":"https://medium.com/eightshapes-llc/and-you-thought-buttons-were-easy-26eb5b5c1871",
+    "description": "A slightly hyperbolic example of how much duplicate design work can cost. It does give a good illustration of how complex digital design can get, though.",
+    "date": "26/07/2017",
+    "type": "article",
+    "tags":["design systems","process"]
+  },
+  {
+    "title":"InVision Design Maturity Report",
+    "linkURL":"https://www.invisionapp.com/design-better/design-maturity-model/",
+    "description": "InVision's look at the state of the (tech) design industry. The model of design maturity treats design systems as table stakes.",
+    "date": "01/10/2019",
+    "type": "article",
+    "tags":["design industry"]
+  },
+  {
+    "title":"The Language of Modular Design",
+    "linkURL":"https://alistapart.com/article/language-of-modular-design/",
+    "description": "An introduction to designing using modular components to create more complex layouts",
+    "date": "11/08/2015",
+    "type": "article",
+    "tags":["modular design"]
+  },
+  {
+    "title":"Atomic Design",
+    "linkURL":"http://atomicdesign.bradfrost.com/",
+    "description": "The already classic book by Brad Frost. Chapter 1 is a particularly good intro to a systems-based design approach.",
+    "date":"01/01/2016",
+    "type": "book",
+    "tags":["modular design"]
+  },
+  {
+    "title":"How we document components and patterns in the GOV.UK Design System",
+    "linkURL":"https://designnotes.blog.gov.uk/2018/11/05/how-we-document-components-and-patterns-in-the-gov-uk-design-system/",
+    "description": "Overview of the documentation used to support the GOV.UK Design System.",
+    "date": "05/11/2018",
+    "type": "article",
+    "tags":["design systems","documentation"]
+  },
+  {
+    "title":"A comprehensive guide to design systems",
+    "linkURL":"https://www.invisionapp.com/inside-design/guide-to-design-systems/",
+    "description": "Introduction to the general concepts and processes involved in creating Design Systems. Also has a good list of links for futher reading.",
+    "date": "24/06/2019",
+    "type": "article",
+    "tags":["design systems","process"]
+  },
+  {
+    "title":"Building Flexible Design Systems - The Design & Content Conference",
+    "linkURL":"https://vimeo.com/228908312",
+    "description": "Yesenia Perez-Cruz presents a case study of how Vox used a design system across their brands that helped to maintain, rather than stifle, creativity.",
+    "date": "08/10/2017",
+    "type": "video",
+    "tags":["design systems","creativity","process"]
+  }
+]
